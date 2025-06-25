@@ -321,7 +321,7 @@ ul {
     left: 0;
     width: 100%;
     height: 100%;
-    background: url('images/rectangle_8.jpg') no-repeat center center / cover; 
+    background: url('images/rectangle_8.jpg'); 
     z-index: 1;
 }
 
